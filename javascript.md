@@ -18,6 +18,10 @@
 - [pino](https://github.com/pinojs/pino) (2018-09-20)
 
   Very low overhead Node.js logger.
+  
+- [dotenv](https://github.com/motdotla/dotenv) (2018-09-20)
+
+  Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.
 
 - [DOMPurify](https://github.com/cure53/DOMPurify) (2018-09-18)
 
