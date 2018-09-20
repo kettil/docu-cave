@@ -14,6 +14,10 @@
 - [Sequelize](https://github.com/sequelize/sequelize) (2018-09-20)
 
   Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server.
+  
+- [pino](https://github.com/pinojs/pino) (2018-09-20)
+
+  Very low overhead Node.js logger.
 
 - [DOMPurify](https://github.com/cure53/DOMPurify) (2018-09-18)
 
