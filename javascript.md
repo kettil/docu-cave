@@ -11,6 +11,10 @@
 
   This reusable React component will manage all of your changes to the document head.
 
+- [Sequelize](https://github.com/sequelize/sequelize) (2018-09-20)
+
+  Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server.
+
 - [DOMPurify](https://github.com/cure53/DOMPurify) (2018-09-18)
 
   DOMPurify is a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
