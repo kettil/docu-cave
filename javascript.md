@@ -35,3 +35,6 @@
 
   Node License Finder is a utility for attempting to identify the licenses of modules in a node.js project. 
   
+- [React Autosuggest](https://github.com/moroshko/react-autosuggest) (2018-10-12)
+
+  WAI-ARIA compliant React autosuggest component
