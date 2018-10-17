@@ -38,3 +38,8 @@
 - [React Autosuggest](https://github.com/moroshko/react-autosuggest) (2018-10-12)
 
   WAI-ARIA compliant React autosuggest component
+  
+- [Istanbul Code Coverage](https://github.com/istanbuljs) (2018-10-17)
+
+  Yet another JS code coverage tool that computes statement, line, function and branch coverage.
+  - [Parsing Hints - Ignoring Lines](https://github.com/istanbuljs/nyc#parsing-hints-ignoring-lines)
