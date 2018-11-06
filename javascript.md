@@ -1,7 +1,7 @@
 # JavaScript
 
 
-# nodejs
+## nodejs
 
 - [Helmet](https://github.com/helmetjs/helmet) (2018-09-18)
 
@@ -43,3 +43,44 @@
 
   Yet another JS code coverage tool that computes statement, line, function and branch coverage.
   - [Parsing Hints - Ignoring Lines](https://github.com/istanbuljs/nyc#parsing-hints-ignoring-lines)
+
+## JavaScript
+
+- [Title-Tag des inaktiven Browser-Tabs animieren](https://blog.kulturbanause.de/2018/01/title-tag-des-inaktiven-browser-tabs-animieren/) (2018-11-06)
+
+```
+focusTitle = $('head title').text(); // Originalen Title speichern
+$(window).on('blur focus', function(e) {
+ var prevType = $(this).data('prevType'); 
+ if (prevType != e.type) {
+   switch (e.type) {
+     case 'blur':
+     var i=0;
+     tab = setInterval(function() {
+       switch(i++%2) {
+         case 0: document.title = 'Wir sind'; // Erste Anzeige im Tab
+         break;
+         case 1: document.title = 'kulturbanause'; // Zweite Anzeige im Tab
+       }
+     }, 1000); // Zeit zwischen dem Wechsel der Anzeigen
+     break;
+     case 'focus': 
+       clearInterval(tab);
+       document.title = focusTitle; // Originalen Title einsetzen
+     break;
+   }
+ }
+ $(this).data('prevType', e.type);
+});
+```
+
+- [CSS Grid auto-fill – Responsive Layouts ohne Media Queries](https://blog.kulturbanause.de/2018/07/css-grid-auto-fill-responsive-layouts-ohne-media-queries/) (2018-11-06)
+
+```
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+```
+
+
