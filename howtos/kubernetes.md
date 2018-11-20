@@ -71,7 +71,7 @@ apt-get install -y kubelet kubeadm kubectl
 apt-mark hold kubelet kubeadm kubectl
 # see https://manpages.debian.org/stretch/apt/apt-mark.8.en.html
 
-kubeadm init --pod-network-cidr=10.y.y.y/16 --apiserver-advertise-address=10.x.x.x
+kubeadm init --pod-network-cidr=10.y.0.0/16 --apiserver-advertise-address=10.x.x.x
 # example: kubeadm init --pod-network-cidr=10.10.0.0/16 --apiserver-advertise-address=10.0.0.10
 # 10.10.0.0/16 => 10.10.0.1 - 10.10.255.254
 ```
