@@ -73,6 +73,7 @@ apt-mark hold kubelet kubeadm kubectl
 
 kubeadm init --pod-network-cidr=10.y.y.y/16 --apiserver-advertise-address=10.x.x.x
 # example: kubeadm init --pod-network-cidr=10.10.0.0/16 --apiserver-advertise-address=10.0.0.10
+# 10.10.0.0/16 => 10.10.0.1 - 10.10.255.254
 ```
 
 ### User settings
@@ -84,12 +85,12 @@ sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
 sudo chown $(id -u):$(id -g) $HOME/.kube/config
 
 kubectl version
-> Client Version: version.Info{Major:"1", Minor:"12", GitVersion:"v1.12.2", GitCommit:"<hash>", GitTreeState:"clean", BuildDate:"2018-10-24T06:54:59Z", GoVersion:"go1.10.4", Compiler:"gc", Platform:"linux/amd64"}
-> Server Version: version.Info{Major:"1", Minor:"12", GitVersion:"v1.12.2", GitCommit:"<hash>", GitTreeState:"clean", BuildDate:"2018-10-24T06:43:59Z", GoVersion:"go1.10.4", Compiler:"gc", Platform:"linux/amd64"}
+# Client Version: version.Info{Major:"1", Minor:"12", GitVersion:"v1.12.2", GitCommit:"<hash>", GitTreeState:"clean", BuildDate:"2018-10-24T06:54:59Z", GoVersion:"go1.10.4", Compiler:"gc", Platform:"linux/amd64"}
+# Server Version: version.Info{Major:"1", Minor:"12", GitVersion:"v1.12.2", GitCommit:"<hash>", GitTreeState:"clean", BuildDate:"2018-10-24T06:43:59Z", GoVersion:"go1.10.4", Compiler:"gc", Platform:"linux/amd64"}
 
 # for single machine (master only)
 kubectl taint nodes --all node-role.kubernetes.io/master-
-> node/<hostname> untainted
+# node/<hostname> untainted
 
 ```
 
