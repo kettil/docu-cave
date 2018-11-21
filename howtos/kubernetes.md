@@ -162,3 +162,51 @@ Source:
 - https://github.com/kubernetes/dashboard/wiki/Installation
 - https://www.edureka.co/blog/install-kubernetes-on-ubuntu/amp/
 
+## Helm
+
+```bash
+# user: kettil
+cd ~
+curl https://raw.githubusercontent.com/helm/helm/master/scripts/get > install-helm.sh
+chmod 700 install-helm.sh
+./install-helm.sh
+
+kubectl -n kube-system create serviceaccount tiller
+kubectl create clusterrolebinding tiller --clusterrole cluster-admin --serviceaccount=kube-system:tiller
+
+helm init --service-account tiller
+# for upgrade
+#helm init --upgrade
+
+# test
+kubectl get pods --namespace kube-system
+> tiller-deploy-845cffcd48-rp7vl          1/1     Running            0          19m
+
+helm repo update
+
+```
+
+Source:
+- https://www.digitalocean.com/community/tutorials/how-to-install-software-on-kubernetes-clusters-with-the-helm-package-manager
+- https://docs.helm.sh/using_helm/#installing-helm
+
+### Gitlab
+
+```bash
+
+helm repo add gitlab https://charts.gitlab.io/
+helm repo update
+helm upgrade --install gitlab gitlab/gitlab \
+  --timeout 600 \
+  --set global.hosts.domain=example.com \
+  --set global.hosts.externalIP=10.x.x.x \
+  --set certmanager-issuer.email=email@example.com  \
+  --set gitlab.migrations.image.repository=registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce \
+  --set gitlab.sidekiq.image.repository=registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce  \
+  --set gitlab.unicorn.image.repository=registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce  \
+  --set gitlab.unicorn.workhorse.image=registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce \
+  --set gitlab.task-runner.image.repository=registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce
+```
+
+Source:
+- https://docs.gitlab.com/ee/install/kubernetes/gitlab_chart.html
