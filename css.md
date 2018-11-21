@@ -10,6 +10,10 @@
 
   > Komplexe Weblayouts lassen sich weder mit float-basierten Gestaltungsrastern noch mit Flexbox perfekt umsetzen. 
   
+- [Native CSS Grid Layouts ohne Framework – ein einfaches Beispiel](http://maddesigns.de/css-grid-layout-2764.html) (2018-11-21)
+
+  > Eine neue CSS Grid Layout Spezifikation gibt Webworkern nun die Möglichkeit eigene Grids nach den jeweiligen Anforderungen selbst zu definieren. Das ist nicht nur für Seitenlayouts, sondern auch für Modul-Layouts sehr nützlich. Aber zugegeben sind auch sehr viele neue Eigenschaften zu lernen, 17 neue Eigenschaften in Summe.
+  
 ## FlexBox  
   
 - [CSS Flexbox – Einführung in das Flexible Box Layout Module](https://blog.kulturbanause.de/2013/07/einfuhrung-in-das-flexbox-modell-von-css/) (2018-11-15)
