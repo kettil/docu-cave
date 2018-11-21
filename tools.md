@@ -27,7 +27,6 @@
 
 - [Regexper](https://regexper.com) (2018-11-21)
 
-  > You thought you only had two problems…
   
   
   
