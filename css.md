@@ -9,11 +9,21 @@
 - [CSS Grid – Einführung in Gestaltungsraster mit dem Grid Layout Module](https://blog.kulturbanause.de/2013/12/css-grid-layout-module/) (2018-11-15)
 
   > Komplexe Weblayouts lassen sich weder mit float-basierten Gestaltungsrastern noch mit Flexbox perfekt umsetzen. 
+
+- [CSS Grid auto-fill – Responsive Layouts ohne Media Queries](https://blog.kulturbanause.de/2018/07/css-grid-auto-fill-responsive-layouts-ohne-media-queries/) (2018-11-06)
+
+  > ```
+  > .container {
+  >     display: grid;
+  >     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  > }
+  > ```
   
 - [Native CSS Grid Layouts ohne Framework – ein einfaches Beispiel](http://maddesigns.de/css-grid-layout-2764.html) (2018-11-21)
 
   > Eine neue CSS Grid Layout Spezifikation gibt Webworkern nun die Möglichkeit eigene Grids nach den jeweiligen Anforderungen selbst zu definieren. Das ist nicht nur für Seitenlayouts, sondern auch für Modul-Layouts sehr nützlich. Aber zugegeben sind auch sehr viele neue Eigenschaften zu lernen, 17 neue Eigenschaften in Summe.
-  
+
+
 ## FlexBox  
   
 - [CSS Flexbox – Einführung in das Flexible Box Layout Module](https://blog.kulturbanause.de/2013/07/einfuhrung-in-das-flexbox-modell-von-css/) (2018-11-15)
