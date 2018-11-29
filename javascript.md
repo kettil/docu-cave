@@ -1,6 +1,10 @@
 # JavaScript
 
 
+## General
+
+- [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/) (2018-11-29)
+
 ## nodejs
 
 - [Helmet](https://github.com/helmetjs/helmet) (2018-09-18)
