@@ -77,14 +77,3 @@
 >  $(this).data('prevType', e.type);
 > });
 > ```
-
-- [CSS Grid auto-fill – Responsive Layouts ohne Media Queries](https://blog.kulturbanause.de/2018/07/css-grid-auto-fill-responsive-layouts-ohne-media-queries/) (2018-11-06)
-
-> ```
-> .container {
->     display: grid;
->     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-> }
-> ```
-
-
