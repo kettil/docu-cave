@@ -23,6 +23,9 @@
 
   > Eine neue CSS Grid Layout Spezifikation gibt Webworkern nun die Möglichkeit eigene Grids nach den jeweiligen Anforderungen selbst zu definieren. Das ist nicht nur für Seitenlayouts, sondern auch für Modul-Layouts sehr nützlich. Aber zugegeben sind auch sehr viele neue Eigenschaften zu lernen, 17 neue Eigenschaften in Summe.
 
+- [CSS Grid Application Layout in Production](https://techblog.commercetools.com/gss-grid-application-layout-in-production-f60c65a05cfa) (2018-12-04)
+
+  > CSS Grid is one of the biggest enhancements for layouts the web has seen in a long time. We are finally able to create native two-dimensional layouts in the browser. It makes your HTML more concise and your CSS more robust.
 
 ## FlexBox  
   
