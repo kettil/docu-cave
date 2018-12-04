@@ -13,9 +13,6 @@ apt-get upgrade -y
 apt-get install -y nano sudo git
 
 usermod -aG sudo kettil
-
-# ip address from server
-echo "10.x.x.x $HOSTNAME" >> /etc/hosts
 ```
 
 ## Docker
