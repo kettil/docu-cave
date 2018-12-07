@@ -107,6 +107,11 @@ kubectl apply -f https://raw.githubusercontent.com/coreos/flannel/master/Documen
 # test config
 kubectl get pods --namespace=kube-system | grep flannel
 > kube-flannel-ds-amd64-bzdp5         1/1     Running   0          74s
+
+
+# delete coredns container (CrashLoopBackOff)
+kubectl get pods -n kube-system -oname |grep coredns |xargs kubectl delete -n kube-system
+
 ```
 
 Source:
