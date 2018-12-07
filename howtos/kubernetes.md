@@ -39,6 +39,7 @@ apt-get update
 # installed last version
 #apt-get install -y docker-ce
 apt-get install -y docker-ce=18.06.1~ce~3-0~debian
+apt-mark hold docker-ce
 
 groupadd docker
 usermod -aG docker kettil
