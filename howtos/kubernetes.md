@@ -71,8 +71,9 @@ apt-mark hold kubelet kubeadm kubectl
 
 kubeadm config images pull
 kubeadm init --pod-network-cidr=10.y.0.0/16 --apiserver-advertise-address=10.x.x.x
-# example: kubeadm init --pod-network-cidr=10.10.0.0/16 --apiserver-advertise-address=10.0.0.10
+# example: kubeadm init --pod-network-cidr=10.244.0.0/16 --apiserver-advertise-address=10.0.0.10
 # 10.10.0.0/16 => 10.10.0.1 - 10.10.255.254
+# 10.244.0.0/16 => 10.244.0.1 - 10.244.255.254
 ```
 
 ### User settings
