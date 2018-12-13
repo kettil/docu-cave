@@ -56,6 +56,10 @@
 
   > RxJS is one of the hottest libraries in web development today. Offering a powerful, functional approach for dealing with events and with integration points into a growing number of frameworks, libraries, and utilities, the case for learning Rx has never been more appealing.
   
+- [RxJS examples](https://xgrommx.github.io/rx-book/content/observable/observable_instance_methods/index.html) (2018-12-13)
+
+  Interactive examples of RxJS - **warning old code version (v4)**
+  
 ## JavaScript
 
 - [Title-Tag des inaktiven Browser-Tabs animieren](https://blog.kulturbanause.de/2018/01/title-tag-des-inaktiven-browser-tabs-animieren/) (2018-11-06)
