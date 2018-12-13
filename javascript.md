@@ -52,6 +52,9 @@
 
   > restify is a framework, utilizing connect style middleware for building REST APIs.
   
+- [Learn RxJS](https://www.learnrxjs.io) (2018-12-13)
+
+  > RxJS is one of the hottest libraries in web development today. Offering a powerful, functional approach for dealing with events and with integration points into a growing number of frameworks, libraries, and utilities, the case for learning Rx has never been more appealing.
   
 ## JavaScript
 
