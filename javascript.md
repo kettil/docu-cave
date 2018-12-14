@@ -60,6 +60,10 @@
 
   Interactive examples of RxJS - **warning old code version (v4)**
   
+- [Faker.js](https://github.com/Marak/Faker.js) (2018-12-14)
+
+  > faker.js - generate massive amounts of fake data in the browser and node.js
+  
 ## JavaScript
 
 - [Title-Tag des inaktiven Browser-Tabs animieren](https://blog.kulturbanause.de/2018/01/title-tag-des-inaktiven-browser-tabs-animieren/) (2018-11-06)
