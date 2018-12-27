@@ -19,6 +19,10 @@
 
   > Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server.
   
+- [debug](https://github.com/visionmedia/debug) (2018-12-26)
+
+  > A tiny JavaScript debugging utility modelled after Node.js core's debugging technique.
+  
 - [pino](https://github.com/pinojs/pino) (2018-09-20)
 
   > Very low overhead Node.js logger.
