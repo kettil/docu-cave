@@ -36,3 +36,10 @@
 - [Flexbox: Mehrspaltige Liste von Boxen mit vertikal zentrierten Inhalten](https://blog.kulturbanause.de/2016/03/flexbox-mehrspaltige-liste-von-boxen-mit-vertikal-zentrierten-inhalten/) (2018-11-15)
 
   > Vertikales Zentrieren einerseits und gleich hohe Elemente andererseits stellten Webdesigner lange Zeit vor große Herausforderungen. Dank Flexbox gehört dies mittlerweile der Vergangenheit an.
+  
+  
+## Images
+
+- [object-fit](https://css-tricks.com/almanac/properties/o/object-fit/) (2019-01-02)
+
+  > The object-fit property defines how an element responds to the height and width of its content box. 
