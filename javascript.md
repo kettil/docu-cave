@@ -68,6 +68,31 @@
 
   > faker.js - generate massive amounts of fake data in the browser and node.js
   
+- [as-table](https://github.com/xpl/as-table) (2019-01-02) 
+
+  > A simple function that prints objects as ASCII tables. 
+  > Supports ANSI styling and weird Unicode 💩 emojis – they won't break the layout.
+  
+- [Yargs](https://github.com/yargs/yargs) (2019-01-02)
+
+  > Yargs be a node.js library fer hearties tryin' ter parse optstrings
+  
+- [meow](https://github.com/sindresorhus/meow) (2019-01-02)
+
+  > CLI app helper (Parses arguments)
+
+- [Chalk](https://github.com/chalk/chalk) (2019-01-02)  
+
+  > Terminal string styling done right
+
+- [Prompt](https://github.com/flatiron/prompt) (2019-01-02)
+
+  > A beautiful command-line prompt for node.js
+  
+- [ora](https://github.com/sindresorhus/ora) (2019-01-02)
+  
+  > Elegant terminal spinner
+
 ## JavaScript
 
 - [Title-Tag des inaktiven Browser-Tabs animieren](https://blog.kulturbanause.de/2018/01/title-tag-des-inaktiven-browser-tabs-animieren/) (2018-11-06)
