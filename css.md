@@ -25,7 +25,13 @@
 
 - [CSS Grid Application Layout in Production](https://techblog.commercetools.com/gss-grid-application-layout-in-production-f60c65a05cfa) (2018-12-04)
 
-  > CSS Grid is one of the biggest enhancements for layouts the web has seen in a long time. We are finally able to create native two-dimensional layouts in the browser. It makes your HTML more concise and your CSS more robust.
+  > CSS Grid is one of the biggest enhancements for layouts the web has seen in a long time.
+  > We are finally able to create native two-dimensional layouts in the browser.
+  > It makes your HTML more concise and your CSS more robust.
+
+- [Learning CSS Grid](https://varun.ca/css-grid/) (2019-01-02)
+
+  > The learning curve was much steeper than I expected – the module introduces something like 17 new concepts.
 
 ## FlexBox  
   
