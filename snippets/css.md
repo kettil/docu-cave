@@ -4,7 +4,8 @@
 ## Form hover
 
 [Source](https://codepen.io/ericwbailey/pen/KQOpRM)
-
+<details><summary>Show Code</summary><p>
+  
 ```css
 // Scale the form's size slightly when its input is focused.
 // If `:focus-within` is not supported, form functionality is unaffected.
@@ -19,3 +20,4 @@ form:focus-within {
   }
 }
 ```
+</p></details>
