@@ -99,7 +99,7 @@
 
 > <details><summary>Show Code</summary><p>
 >   
-> ```
+> ```javascript
 > focusTitle = $('head title').text(); // Originalen Title speichern
 > $(window).on('blur focus', function(e) {
 >  var prevType = $(this).data('prevType'); 
