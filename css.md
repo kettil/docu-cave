@@ -49,3 +49,59 @@
 - [object-fit](https://css-tricks.com/almanac/properties/o/object-fit/) (2019-01-02)
 
   > The object-fit property defines how an element responds to the height and width of its content box. 
+  
+  
+## Meter-Element
+
+- [star rating (like Amazon)](https://codepen.io/maddesigns/pen/oQoMre) (2019-01-09)
+
+  > ```<meter value="70" min="0" max="100" low="20" high="80" optimum="90">50% satisfied costumers – 2.5 of 5.0 stars</meter>```
+
+  > ```
+  > $meter-background: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"%3E%3Ctext font-size="100" y="0.9em" stroke-linejoin="round" fill="white" stroke="darkorange" stroke-width="4"%3E★%3C/text%3E%3C/svg%3E')
+  > 		0 / auto 100%;
+  > $meterbar: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"%3E%3Ctext font-size="100" y="0.9em" stroke-linejoin="round" fill="gold" stroke="darkorange" stroke-width="4"%3E★%3C/text%3E%3C/svg%3E')
+  > 		0 / auto 100%;
+  > 
+  > meter {
+  > 	$meter-height: 4em;
+  > 	
+  > 	background: $meter-background;
+  > 	height: $meter-height;
+  > 	width: $meter-height * 5;
+  > }
+  > 	
+  > meter::-webkit-meter-bar {
+  > 	background: $meter-background;
+  > }
+  > 
+  > /* firefox styling for the bar (filled stars) */
+  > meter:-moz-meter-optimum::-moz-meter-bar,
+  > meter:-moz-meter-sub-optimum::-moz-meter-bar,
+  > meter:-moz-meter-sub-sub-optimum::-moz-meter-bar {
+  > 	background: $meterbar;
+  > }
+  > 
+  > /* webkit styling for the bar (filled stars) */
+  > meter::-webkit-meter-optimum-value,
+  > meter::-webkit-meter-suboptimum-value,
+  > meter::-webkit-meter-even-less-good-value {
+  > 	background: $meterbar;
+  > }
+  > 
+  > // defaults
+  > * {
+  > 	box-sizing: border-box;
+  > }
+  > 
+  > html {
+  > 	height: 100%;
+  > }
+  > 	
+  > body {
+  > 	display: flex;
+  > 	height: 100vh;
+  > 	align-items: center;
+  > 	justify-content: center;
+  > }
+  > ```
