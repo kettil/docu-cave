@@ -97,6 +97,8 @@
 
 - [Title-Tag des inaktiven Browser-Tabs animieren](https://blog.kulturbanause.de/2018/01/title-tag-des-inaktiven-browser-tabs-animieren/) (2018-11-06)
 
+> <details><summary>Show Code</summary><p>
+>   
 > ```
 > focusTitle = $('head title').text(); // Originalen Title speichern
 > $(window).on('blur focus', function(e) {
@@ -122,3 +124,5 @@
 >  $(this).data('prevType', e.type);
 > });
 > ```
+> 
+> </p></details>
