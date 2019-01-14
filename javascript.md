@@ -104,6 +104,10 @@
 - [Parcel](https://github.com/parcel-bundler/parcel) (2019-01-14)
 
   > Blazing fast, zero configuration web application bundler
+  
+- [node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) (2019-01-14)
+
+  > bcrypt for NodeJs
 
 ## JavaScript
 
