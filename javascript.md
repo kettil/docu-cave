@@ -93,6 +93,14 @@
   
   > Elegant terminal spinner
 
+- [Object schema validation](https://github.com/hapijs/joi) (2019-01-14)
+
+  > Object schema description language and validator for JavaScript objects.
+
+- [JSON Schema validation](https://github.com/tdegrunt/jsonschema) (2019-01-14)
+
+  > JSON schema validator, which is designed to be fast and simple to use.
+
 ## JavaScript
 
 - [Title-Tag des inaktiven Browser-Tabs animieren](https://blog.kulturbanause.de/2018/01/title-tag-des-inaktiven-browser-tabs-animieren/) (2018-11-06)
