@@ -93,11 +93,11 @@
   
   > Elegant terminal spinner
 
-- [Object schema validation](https://github.com/hapijs/joi) (2019-01-14)
+- [Joi](https://github.com/hapijs/joi) (2019-01-14)
 
   > Object schema description language and validator for JavaScript objects.
 
-- [JSON Schema validation](https://github.com/tdegrunt/jsonschema) (2019-01-14)
+- [jsonschema](https://github.com/tdegrunt/jsonschema) (2019-01-14)
 
   > JSON schema validator, which is designed to be fast and simple to use.
   
