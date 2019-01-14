@@ -100,6 +100,10 @@
 - [JSON Schema validation](https://github.com/tdegrunt/jsonschema) (2019-01-14)
 
   > JSON schema validator, which is designed to be fast and simple to use.
+  
+- [Parcel](https://github.com/parcel-bundler/parcel) (2019-01-14)
+
+  > Blazing fast, zero configuration web application bundler
 
 ## JavaScript
 
