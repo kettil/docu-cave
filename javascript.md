@@ -39,9 +39,9 @@
 
   > DOMPurify is a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
 
-- [Sanitizer](https://github.com/theSmaw/Caja-HTML-Sanitizer) (2018-09-18)
+- [Sanitizer](https://github.com/theSmaw/Caja-HTML-Sanitizer) (2018-09-18) **[unmaintained]**
 
-  > Bundles Google Caja's HTML Sanitizer within a npm installable node.js module
+  > Bundles Google Caja's HTML Sanitizer within a npm installable node.js module 
 
 - [Node License Finder](https://github.com/iandotkelly/nlf) (2018-09-18)
 
