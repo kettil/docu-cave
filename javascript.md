@@ -113,7 +113,7 @@
 
   > Bunyan is a simple and fast JSON logging library for node.js services:
 
-- [Pino](https://getpino.io/) ([Github](https://github.com/pinojs/pino)) (2019-01-16)
+- [Pino](https://getpino.io/) ([npm](https://www.npmjs.com/package/pino) | [github](https://github.com/pinojs/pino)) (2019-01-16)
 
   > Very low overhead Node.js logger, inspired by Bunyan.
 
