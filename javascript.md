@@ -109,6 +109,14 @@
 
   > bcrypt for NodeJs
 
+- [Bunyan](https://github.com/trentm/node-bunyan) (2019-01-16)
+
+  > Bunyan is a simple and fast JSON logging library for node.js services:
+
+- [Pino](https://getpino.io/) ([Github](https://github.com/pinojs/pino)) (2019-01-16)
+
+  > Very low overhead Node.js logger, inspired by Bunyan.
+
 ## JavaScript
 
 - [Title-Tag des inaktiven Browser-Tabs animieren](https://blog.kulturbanause.de/2018/01/title-tag-des-inaktiven-browser-tabs-animieren/) (2018-11-06)
