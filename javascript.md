@@ -23,7 +23,11 @@
 
   > A tiny JavaScript debugging utility modelled after Node.js core's debugging technique.
   
-- [pino](https://github.com/pinojs/pino) (2018-09-20)
+- [Bunyan](https://github.com/trentm/node-bunyan) (2019-01-16)
+
+  > Bunyan is a simple and fast JSON logging library for node.js services:
+
+- [Pino](https://getpino.io/) ([npm](https://www.npmjs.com/package/pino) | [github](https://github.com/pinojs/pino)) (2019-01-16)
 
   > Very low overhead Node.js logger.
   
@@ -108,14 +112,6 @@
 - [node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) (2019-01-14)
 
   > bcrypt for NodeJs
-
-- [Bunyan](https://github.com/trentm/node-bunyan) (2019-01-16)
-
-  > Bunyan is a simple and fast JSON logging library for node.js services:
-
-- [Pino](https://getpino.io/) ([npm](https://www.npmjs.com/package/pino) | [github](https://github.com/pinojs/pino)) (2019-01-16)
-
-  > Very low overhead Node.js logger, inspired by Bunyan.
 
 ## JavaScript
 
