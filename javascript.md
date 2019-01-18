@@ -113,6 +113,10 @@
 
   > bcrypt for NodeJs
 
+- [useragent](https://github.com/3rd-Eden/useragent) ([npm](https://www.npmjs.com/package/useragent)) (2019-01-18)
+
+  > high performance user agent parser for Node.js
+  
 ## JavaScript
 
 - [Title-Tag des inaktiven Browser-Tabs animieren](https://blog.kulturbanause.de/2018/01/title-tag-des-inaktiven-browser-tabs-animieren/) (2018-11-06)
