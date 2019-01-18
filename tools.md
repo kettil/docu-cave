@@ -27,6 +27,11 @@
 
 - [Regexper](https://regexper.com) (2018-11-21)
 
+  > Regexper - You thought you only had two problems…
+
+- [Live Regex](https://www.phpliveregex.com) (2019-01-18)
   
-  
-  
+  > A Live Regular Expression Tester for PHP
+
+- [Debuggex](https://www.debuggex.com) (2019-01-18)
+
