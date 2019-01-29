@@ -117,6 +117,14 @@
 
   > high performance user agent parser for Node.js
   
+- [date-fns](https://date-fns.org) ([npm](https://www.npmjs.com/package/date-fns) | [github](https://github.com/date-fns/date-fns)) (2019-01-29)
+
+  > Modern JavaScript date utility library
+  
+- [Luxon](https://moment.github.io/luxon/index.html) ([npm](https://www.npmjs.com/package/luxon) | [github](https://github.com/moment/luxon)) (2019-01-29)
+
+  > Luxon is a library for working with dates and times in Javascript.
+  
 ## JavaScript
 
 - [Title-Tag des inaktiven Browser-Tabs animieren](https://blog.kulturbanause.de/2018/01/title-tag-des-inaktiven-browser-tabs-animieren/) (2018-11-06)
