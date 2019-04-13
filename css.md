@@ -54,6 +54,11 @@
 
   > The object-fit property defines how an element responds to the height and width of its content box. 
   
+## React
+
+- [JSS](https://cssinjs.org/react-jss/?v=v10.0.0-alpha.16) ([npm](https://www.npmjs.com/package/react-jss) | [github](https://github.com/cssinjs/jss/tree/master/packages/react-jss)) (2019-04-13)
+
+  > JSS is an authoring tool for CSS which allows you to use JavaScript to describe styles in a declarative, conflict-free and reusable way. It can compile in the browser, server-side or at build time in Node.
   
 ## Meter-Element
 
