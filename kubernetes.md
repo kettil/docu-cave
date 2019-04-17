@@ -3,9 +3,66 @@
 - [Helm](https://helm.sh) (2018-10-01)
 
   > The package manager for Kubernetes
-  
+    
+  - [Chart: Prometheus](https://github.com/helm/charts/tree/master/stable/prometheus) (2019-04-17)
+  - [Chart: prometheus-operator](https://github.com/helm/charts/tree/master/stable/prometheus-operator) (2019-04-17)
+  - [Chart: RabbitMQ](https://github.com/helm/charts/tree/master/stable/rabbitmq) (2019-04-17)
+  - [Chart: RabbitMQ High Available](https://github.com/helm/charts/tree/master/stable/rabbitmq-ha) (2019-04-17)
+
 - [ROOK](https://rook.io) (2018-10-01)
 
   > File, Block, and Object Storage Services for your Cloud-Native Environments
+  
+- [Rancher](https://rancher.com) (2019-04-17)
+
+  > Rancher is open-source software for delivering Kubernetes-as-a-Service.
+  
+- [Logstash](https://www.elastic.co/products/logstash) (2019-04-17)
+
+  > Logstash is an open source, server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite "stash".
+  
+- [fluentd](https://www.fluentd.org) (2019-04-17)
+
+  > Build Your Unified Logging Layer
+
+- [Graylog](https://www.graylog.org/products/open-source) (2019-04-17)
+
+  > LOG MANAGEMENT FOR ALL
+  >
+  > Built to open standards, Graylog’s connectivity and interoperability seamlessly collects, enhances, stores, and analyzes log data.
+
+- [Loki](https://grafana.com/loki#about) (2019-04-17)
+
+  > Loki. Prometheus-inspired logging for cloud natives.
+
+- [CHRONIX](http://www.chronix.io) (2019-04-17)
+
+  > A fast and efficient time series storage
+
+- [envoy](https://www.envoyproxy.io) (2019-04-17)
+
+  > Build Your Unified Logging Layer
+
+- [OpenFaaS](https://github.com/openfaas/faas) (2019-04-17)
+
+  > OpenFaaS® (Functions as a Service) is a framework for building Serverless functions with Docker and Kubernetes which has first-class support for metrics. 
+  > Any process can be packaged as a function enabling you to consume a range of web events without repetitive boiler-plate coding.
+
+## Playground
+
+- [Play with Kubernetes](https://labs.play-with-k8s.com) (2019-04-17)
+
+  > A simple, interactive and fun playground to learn Kubernetes
+
+- [Kind](https://github.com/kubernetes-sigs/kind) (2019-04-17)
+
+  > Kubernetes IN Docker - local clusters for testing Kubernetes
+  >
+  > kind is a tool for running local Kubernetes clusters using Docker container "nodes".
+
+
+
+
+
 
 
