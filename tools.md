@@ -19,6 +19,12 @@
 
   > This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet.
 
+## DNS
+
+- [nip.io](https://nip.io) (2019-04-17)
+
+  > Dead simple wildcard DNS for any IP Address
+
 ## Unicode
 
 - [What Unicode character is this ?](http://www.babelstone.co.uk/Unicode/whatisit.html) (2018-11-20)
