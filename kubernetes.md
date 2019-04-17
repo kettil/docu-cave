@@ -17,6 +17,11 @@
 
   > Rancher is open-source software for delivering Kubernetes-as-a-Service.
   
+- [Harbor](https://github.com/goharbor/harbor) (2019-04-17)
+
+  > Harbor is an an open source trusted cloud native registry project that stores, signs, and scans content. 
+  > Harbor extends the open source Docker Distribution by adding the functionalities usually required by users such as security, identity and management. 
+    
 - [Logstash](https://www.elastic.co/products/logstash) (2019-04-17)
 
   > Logstash is an open source, server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite "stash".
