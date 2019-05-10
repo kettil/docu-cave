@@ -1,4 +1,4 @@
-
+# RPi-Jukebox-RFID
 
 - Update/upgrade the rpi
 
@@ -58,3 +58,9 @@
   #       mixer_index     "0"             # optional
   }
   ```
+
+
+## Source:
+- https://forum-raspberrypi.de/forum/thread/36628-hifiberry-miniamp-aktivieren/?postID=307345#post307345
+- https://forum-raspberrypi.de/forum/thread/36628-hifiberry-miniamp-aktivieren/?postID=307662#post307662
+- https://github.com/MiczFlor/RPi-Jukebox-RFID/issues/261#issuecomment-433740032
