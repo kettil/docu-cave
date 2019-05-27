@@ -54,6 +54,10 @@
 
   > The object-fit property defines how an element responds to the height and width of its content box. 
   
+- [Essential Guide for Web Performance Optimization](https://uxplanet.org/essential-guide-for-web-performance-optimization-1b883d638a1) (2019-0275)
+
+  > Article about web performance (see [Responsive Image Breakpoints Generator](https://www.responsivebreakpoints.com))
+  
 ## React
 
 - [JSS](https://cssinjs.org/react-jss/?v=v10.0.0-alpha.16) ([npm](https://www.npmjs.com/package/react-jss) | [github](https://github.com/cssinjs/jss/tree/master/packages/react-jss)) (2019-04-13)
