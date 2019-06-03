@@ -13,9 +13,14 @@
 
   > File, Block, and Object Storage Services for your Cloud-Native Environments
   
-- [Rancher](https://rancher.com) (2019-04-17)
+- [Rancher](https://rancher.com/products/rancher/) (2019-04-17)
 
-  > Rancher is open-source software for delivering Kubernetes-as-a-Service.
+  > Kubernetes clusters are being deployed everywhere in your organization. 
+  > Rancher centrally manages all of these clusters in order to ensure security and accelerate transformation.
+  
+- [RancherOS](https://rancher.com/products/rancher/) (2019-06-03)
+
+  > A lightweight, secure Linux distribution, built from containers to run containers well.
   
 - [Harbor](https://github.com/goharbor/harbor) (2019-04-17)
 
