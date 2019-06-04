@@ -125,6 +125,11 @@
 
   > Luxon is a library for working with dates and times in Javascript.
   
+- [Jimp](https://github.com/oliver-moran/jimp) ([npm](https://www.npmjs.com/package/jimp)) (2019-06-04)
+
+  > JavaScript Image Manipulation Program
+  
+  
 ## JavaScript
 
 - [Title-Tag des inaktiven Browser-Tabs animieren](https://blog.kulturbanause.de/2018/01/title-tag-des-inaktiven-browser-tabs-animieren/) (2018-11-06)
