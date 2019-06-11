@@ -1,8 +1,5 @@
 # Tools
 
-
-
-
 ## Speed Tests
 
 - [GTmetrix](https://gtmetrix.com) (2018-11-05)
@@ -36,8 +33,7 @@
   > Regexper - You thought you only had two problems…
 
 - [Live Regex](https://www.phpliveregex.com) (2019-01-18)
-  
+
   > A Live Regular Expression Tester for PHP
 
 - [Debuggex](https://www.debuggex.com) (2019-01-18)
-
