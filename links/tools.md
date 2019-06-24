@@ -37,3 +37,9 @@
   > A Live Regular Expression Tester for PHP
 
 - [Debuggex](https://www.debuggex.com) (2019-01-18)
+
+## Other
+
+- [truth-table-tool](http://web.stanford.edu/class/cs103/tools/truth-table-tool/) (2019-06-24)
+
+  > This tool generates truth tables for propositional logic formulas
