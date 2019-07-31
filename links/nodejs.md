@@ -122,3 +122,13 @@
 - [Jimp](https://github.com/oliver-moran/jimp) ([npm](https://www.npmjs.com/package/jimp)) (2019-06-04)
 
   > JavaScript Image Manipulation Program
+  
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) ([npm](https://www.npmjs.com/package/inquirer)) (2019-07-31)
+
+  > A collection of common interactive command line user interfaces.
+  
+- [Prompts](https://github.com/terkelg/prompts) ([npm](https://www.npmjs.com/package/prompts)) (2019-07-31)
+
+  > Lightweight, beautiful and user-friendly interactive prompts
+  
+
