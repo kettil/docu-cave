@@ -131,4 +131,8 @@
 
   > Lightweight, beautiful and user-friendly interactive prompts
   
+- [fuzzy](https://github.com/mattyork/fuzzy) ([npm](https://www.npmjs.com/package/fuzzy)) (2019-08-01)
+
+  > 1k standalone fuzzy search / fuzzy filter a la Sublime Text's command-p fuzzy file search. Works in both node and browser.
+  
 
