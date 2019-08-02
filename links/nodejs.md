@@ -135,4 +135,6 @@
 
   > 1k standalone fuzzy search / fuzzy filter a la Sublime Text's command-p fuzzy file search. Works in both node and browser.
   
+- [verdaccio](https://github.com/verdaccio/verdaccio) (2019-08-02)
 
+  > A lightweight private npm proxy registry
