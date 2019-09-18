@@ -10,6 +10,12 @@
 
   > Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds.
 
+## LD+JSON
+
+- [Testing-Tool](https://search.google.com/structured-data/testing-tool) (2019-09-18)
+
+  > Structured Data Testing Tool from Google
+
 ## SSL
 
 - [SSL Server Test](https://www.ssllabs.com/ssltest/) (2018-11-05)
