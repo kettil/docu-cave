@@ -58,9 +58,17 @@
 
   > RxJS is one of the hottest libraries in web development today. Offering a powerful, functional approach for dealing with events and with integration points into a growing number of frameworks, libraries, and utilities, the case for learning Rx has never been more appealing.
 
+- [Rx Visualizer](https://rxviz.com) [2019-09-24]
+
+  > Animated playground for Rx Observables
+
+- [reactive.how](https://reactive.how) [2019-09-24]
+
+  > Learn RxJS operators and Reactive Programming principles
+
 - [RxJS examples](https://xgrommx.github.io/rx-book/content/observable/observable_instance_methods/index.html) (2018-12-13)
 
-  Interactive examples of RxJS - **warning old code version (v4)**
+  > Interactive examples of RxJS - **warning old code version (v4)**
 
 - [Faker.js](https://github.com/Marak/Faker.js) (2018-12-14)
 
