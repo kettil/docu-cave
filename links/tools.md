@@ -49,3 +49,8 @@
 - [truth-table-tool](http://web.stanford.edu/class/cs103/tools/truth-table-tool/) (2019-06-24)
 
   > This tool generates truth tables for propositional logic formulas
+
+- [REQ | RES](https://reqres.in/) (2019-09-27)
+
+  > Test your front-end against a real API
+  
