@@ -11,3 +11,7 @@
 - [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/README.html) (2019-06-25)
 
   - This is a collection of known design patterns and some sample code how to implement them in PHP
+
+- [lerna](https://lerna.js.org) [[github](https://github.com/lerna/lerna)] (2019-10-07)
+
+  > A tool for managing JavaScript projects with multiple packages. (see also: [monorepo](https://github.com/babel/babel/blob/master/doc/design/monorepo.md))
