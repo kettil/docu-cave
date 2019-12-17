@@ -5,3 +5,6 @@
 - [Testing Library](https://testing-library.com) (2019-11-26)
   - [React Testing Library](https://github.com/testing-library/react-testing-library) (2019-11-26)
   - [React Hooks Testing Library](https://github.com/testing-library/react-hooks-testing-library) (2019-11-26)
+
+
+- [marked - Markdown parser](https://www.npmjs.com/package/marked) (2019-12-17)
