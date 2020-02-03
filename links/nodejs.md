@@ -74,10 +74,14 @@
 
   > faker.js - generate massive amounts of fake data in the browser and node.js
 
-- [as-table](https://github.com/xpl/as-table) (2019-01-02)
+- ~~[as-table](https://github.com/xpl/as-table) (2019-01-02)~~
 
-  > A simple function that prints objects as ASCII tables.
-  > Supports ANSI styling and weird Unicode 💩 emojis – they won't break the layout.
+  > ~~A simple function that prints objects as ASCII tables.~~
+  > ~~Supports ANSI styling and weird Unicode 💩 emojis – they won't break the layout.~~
+
+- [table](https://github.com/gajus/table) ([npm](https://www.npmjs.com/package/table)) (2020-02-03)
+
+  > Produces a string that represents array data in a text table.
 
 - [Yargs](https://github.com/yargs/yargs) (2019-01-02)
 
