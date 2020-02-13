@@ -8,3 +8,5 @@
 
 
 - [marked - Markdown parser](https://www.npmjs.com/package/marked) (2019-12-17)
+
+- [react-select](https://react-select.com/home) (2020-02-13)
