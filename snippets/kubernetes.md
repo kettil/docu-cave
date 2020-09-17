@@ -4,7 +4,7 @@
 ## Port Forwarding
 
 ```bash
-kubectl port-forward <podname> <port>:<port> [--namespace <namespace>]
+kubectl port-forward <podname> <k8s-port>:<localhost-port> [--namespace <namespace>]
 ```
 
 ## Secrets
