@@ -37,9 +37,9 @@ File with the forwarding rules
 Server configuration
 
 ```nginx
-map $request_uri $new_blog_uri {
+map $request_uri $redirect_example {
     # load redirect file
-    include /etc/nginx/conf.d/blog.map;
+    include /etc/nginx/conf.d/example.map;
 }
 
 server {
