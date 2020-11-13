@@ -17,3 +17,9 @@ kubectl edit secret <name> [--namespace <namespace>]
 # Get
 kubectl get secret <name> --template={{.data.<key>}} [--namespace <namespace>] | base64 -D
 ```
+
+## Events
+
+```bash
+kubectl get events --sort-by='{.lastTimestamp}' [--namespace <namespace>]
+```
